@@ -6,7 +6,7 @@ Maintainer: Jarno Vanhatalo (jarno.vanhatalo@helsinki.fi)
 
 If you use SpatClustMixtures or otherwise refer to it, please use the following reference:
 
-Jarno Vanhatalo, Scott D. Foster and Geoffrey R. Hosack (manuscript). Spatiotemporal Clustering using Gaussian Processes Embedded in a Mixture Model
+Jarno Vanhatalo, Scott D. Foster and Geoffrey R. Hosack (in press). Spatiotemporal Clustering using Gaussian Processes Embedded in a Mixture Model. Environmetrics.
 
 ## Introduction 
 
